@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TP01_PDM.MainPage">
+
+    <FlexLayout Direction="Column" BackgroundColor="Black" Padding="16">
+        <Label Text="Aplicação Teste" HorizontalTextAlignment="Center" TextColor="White" FontSize="36" Margin="0, 0, 0, 32"/>
+        <FlexLayout FlexLayout.Basis="60" JustifyContent="Center" Direction="Row" Margin="0, 0, 0, 16">
+            <Label Text="ID:" TextColor="White" FontSize="36" FlexLayout.Grow="0.35" HorizontalTextAlignment="Center"/>
+            <Entry x:Name="id" BackgroundColor="White" FlexLayout.Grow="1"/>
+        </FlexLayout>
+        <FlexLayout FlexLayout.Basis="60" JustifyContent="Center" Direction="Row" Margin="0, 0, 0, 16">
+            <Label Text="Pass:" TextColor="White" FontSize="36" FlexLayout.Grow="0.35"/>
+            <Entry x:Name="pass" IsPassword="True" BackgroundColor="White" FlexLayout.Grow="1"/>
+        </FlexLayout>
+
+        <FlexLayout FlexLayout.Grow="1" Direction="Column" JustifyContent="End" Margin="0, 0, 0, 32">
+            <Button Text="OK" Clicked="OnClickConfirm" TextColor="DarkRed" FontSize="24"/>
+            <Button Text="Limpar" Clicked="OnClickClear" TextColor="DarkRed" FontSize="24"/>
+            <Button Text="Créditos" Clicked="OnClickCredits" TextColor="DarkRed" FontSize="24"/>
+        </FlexLayout>
+
+    </FlexLayout>
+
+</ContentPage>

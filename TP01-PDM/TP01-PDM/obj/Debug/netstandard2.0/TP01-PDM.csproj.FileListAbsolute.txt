@@ -1,0 +1,15 @@
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\bin\Debug\netstandard2.0\TP01-PDM.deps.json
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\bin\Debug\netstandard2.0\TP01-PDM.dll
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\bin\Debug\netstandard2.0\TP01-PDM.pdb
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\obj\Debug\netstandard2.0\TP01-PDM.csproj.AssemblyReference.cache
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\obj\Debug\netstandard2.0\TP01-PDM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\obj\Debug\netstandard2.0\TP01-PDM.AssemblyInfoInputs.cache
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\obj\Debug\netstandard2.0\TP01-PDM.AssemblyInfo.cs
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\obj\Debug\netstandard2.0\TP01-PDM.csproj.CoreCompileInputs.cache
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\obj\Debug\netstandard2.0\TP01-PDM.dll
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\obj\Debug\netstandard2.0\refint\TP01-PDM.dll
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\obj\Debug\netstandard2.0\TP01-PDM.pdb
+C:\Users\tonin\Documents\Superior\6º Semestre\PDM\TP01-PDM\TP01-PDM\TP01-PDM\obj\Debug\netstandard2.0\ref\TP01-PDM.dll
